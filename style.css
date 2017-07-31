@@ -15,5 +15,8 @@ h5 {
 }
 body {
   background-color: lightblue;
-  
+}
+p{
+  margin-top: 50px;
+  margin-left: 50px;
 }
